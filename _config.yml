@@ -20,6 +20,7 @@ layout: post
 permalink: /:categories/:title
 excerpt_separator: "[-----]"
 
+future: true
 url: # Required: replace this with your domain
 name: MYBLOG # Required: will be displayed on every page's header
 title: MYBLOG # Required: site's default title
