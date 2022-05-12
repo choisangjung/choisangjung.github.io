@@ -21,11 +21,11 @@ permalink: /:categories/:title
 excerpt_separator: "[-----]"
 
 url: # Required: replace this with your domain
-name: textalic # Required: will be displayed on every page's header
-title: site title # Required: site's default title
+name: MYBLOG # Required: will be displayed on every page's header
+title: MYBLOG # Required: site's default title
 shout: # Required: **TWO** lines, will be displayed on page's header.
-  - one liner one...
-  - one liner two...
+  - 
+  - 
 description: "Some short description on your site" # Required
 
 disqus:
