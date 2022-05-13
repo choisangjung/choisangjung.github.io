@@ -6,8 +6,8 @@ job: "DEVELOPER"
 hi: "Seize the Day."
 avatar_img: "/assets/img/profile.jpg" # path to your avatar
 intro:
-  - "Some thing about yourself"
-  - "Can have multiple lines"
+  - 
+  - 
 skills:
   - name: "Programming"
     icon-class: "fa fa-terminal"
