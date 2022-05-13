@@ -4,7 +4,7 @@
 name: "최상정"
 job: "DEVELOPER"
 hi: "Seize the Day."
-avatar_img: "/assets/img/me.png" # path to your avatar
+avatar_img: "/assets/img/profile.jpg" # path to your avatar
 intro:
   - "Some thing about yourself"
   - "Can have multiple lines"
